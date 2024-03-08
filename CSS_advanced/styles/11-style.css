@@ -20,12 +20,12 @@ a {
     display: none;
 }
 
-.section-header {
-    text-align: var(--section-header-align);
-}
-
 .card-category {
     color: var(--color-primary);
+}
+
+.section-header {
+    text-align: var(--section-header-align);
 }
 
 .section-tagline {
