@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .nav .nav-item:hover .nav-link::before {
@@ -339,7 +339,7 @@ ul.row {
     left: -0.1rem;
     right: -0.1rem;
     z-index: 1;
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-inner {
@@ -375,7 +375,7 @@ ul.row {
 
 .card-work:hover .card-image {
     transform: scale(1.2);
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-outer {
